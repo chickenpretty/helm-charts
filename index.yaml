@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grafana-loki-simple:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-14T03:56:25.013744648Z"
+    description: A Helm chart for Kubernetes
+    digest: 15dafb14c18975f2ae540e9b8bd5350ee25815e63ad08a804aa27ce66fa14a10
+    name: grafana-loki-simple
+    type: application
+    urls:
+    - https://github.com/chickenpretty/helm-charts/releases/download/grafana-loki-simple-0.1.0/grafana-loki-simple-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-14T03:56:25.013751048Z"
